@@ -28,3 +28,6 @@ Q.idea/sonarlint/securityhotspotstore/6/9/69cf31b57b8509d793d1e6372c53ea9542452d
 Q.idea/sonarlint/securityhotspotstore/5/4/546cede86c46908e1095ab0742d9f55cd13de69c,a\9\a90f664a6910505713dc6c874157523e6ff11e6a
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
